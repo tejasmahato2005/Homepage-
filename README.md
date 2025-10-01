@@ -8,8 +8,8 @@ It is a personal website built with **HTML, CSS, and Bootstrap** as part of CS50
 ---
 
 ## 📸 Preview
-![Homepage Screenshot](.<img width="1313" height="813" alt="Screenshot 2025-10-01 at 9 59 31 PM" src="https://github.com/user-attachments/assets/b0fe98ea-ce5d-49fb-a43e-2ff0e12b8407" />
-png)
+Homepage Screenshot<img width="1313" height="813" alt="Screenshot 2025-10-01 at 9 59 31 PM" src="https://github.com/user-attachments/assets/b0fe98ea-ce5d-49fb-a43e-2ff0e12b8407" />
+
 
 ---
 
